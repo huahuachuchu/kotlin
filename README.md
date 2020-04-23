@@ -5,5 +5,6 @@
  | [variables](./src/variables) | Basic knowledge of variables |
  | [function](./src/function) | Basic knowledge of function |
  | [extension](./src/extension) | Basic knowledge of extension |
- | [lambda](./src/lambda) | Basic knowledge of lambda |
+ | [lambda](./src/lambda) | Basic knowledge of lambda 
+ | [high order function](./src/highorderfunction) | advanced knowledge of function |
 
