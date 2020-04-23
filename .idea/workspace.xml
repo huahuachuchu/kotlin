@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="427b6b68-8c07-4bc0-b08e-78b48872827e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lambda/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/function/Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/function/Test.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -35,7 +36,33 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.TestKt (1)">
+    <configuration name="StringUtilKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-basic" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="extension.function.StringUtilKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-basic" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="lambda.TestKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="kotlin-basic" />
       <option name="VM_PARAMETERS" />
@@ -51,6 +78,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TestKt (1)" />
+        <item itemvalue="Kotlin.StringUtilKt" />
         <item itemvalue="Kotlin.TestKt" />
       </list>
     </recent_temporary>
@@ -77,22 +106,26 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="440" y="170" key="#Project_Structure/0.23.1680.960@0.23.1680.960" timestamp="1587609356847" />
-    <state width="1636" height="258" key="GridCell.Tab.0.bottom" timestamp="1587609219641">
+    <state width="1636" height="258" key="GridCell.Tab.0.bottom" timestamp="1587626282958">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state width="1636" height="258" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1587609219641" />
-    <state width="1636" height="258" key="GridCell.Tab.0.center" timestamp="1587609219640">
+    <state width="1636" height="258" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1587626282958" />
+    <state width="1636" height="258" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1587625028202" />
+    <state width="1636" height="258" key="GridCell.Tab.0.center" timestamp="1587626282957">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state width="1636" height="258" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1587609219640" />
-    <state width="1636" height="258" key="GridCell.Tab.0.left" timestamp="1587609219640">
+    <state width="1636" height="258" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1587626282957" />
+    <state width="1636" height="258" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1587625028202" />
+    <state width="1636" height="258" key="GridCell.Tab.0.left" timestamp="1587626282956">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state width="1636" height="258" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1587609219640" />
-    <state width="1636" height="258" key="GridCell.Tab.0.right" timestamp="1587609219641">
+    <state width="1636" height="258" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1587626282956" />
+    <state width="1636" height="258" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1587625028201" />
+    <state width="1636" height="258" key="GridCell.Tab.0.right" timestamp="1587626282957">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state width="1636" height="258" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1587609219641" />
+    <state width="1636" height="258" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1587626282957" />
+    <state width="1636" height="258" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1587625028202" />
     <state x="505" y="231" width="670" height="675" key="run.anything.popup" timestamp="1587607727847">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
